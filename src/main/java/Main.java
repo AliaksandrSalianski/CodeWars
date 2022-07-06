@@ -1,8 +1,8 @@
-import codewars.level7.*;
+import codewars.level8.BasicOperations;
 
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(SummaTwoInt.GetSum(0, 1));
+        System.out.println(BasicOperations.basicMath("*", 10, 5));
     }
 }
