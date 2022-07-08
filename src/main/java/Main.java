@@ -1,8 +1,9 @@
-import codewars.level8.BasicOperations;
+import codewars.level7.MinimumInArray;
 
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(BasicOperations.basicMath("*", 10, 5));
+        int[] array = new int[]{22,3,2,1,1,1,12,5,6,7,1};
+        System.out.println(MinimumInArray.minValue(array));
     }
 }

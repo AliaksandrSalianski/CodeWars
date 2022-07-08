@@ -29,8 +29,6 @@ public class WaterBombs {
                 countOfFireX = 1;
                 bomb++;
             }
-
-
         }
         if(countOfFireX>0)
             bomb++;
